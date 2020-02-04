@@ -1,0 +1,4 @@
+# GCP Scripts
+bin/*
+include/*
+lib/*
